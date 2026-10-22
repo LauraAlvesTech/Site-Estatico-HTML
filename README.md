@@ -1,7 +1,7 @@
 Criação de Site
 =========================
 
-Projeto destinado à criação de um site em homenagem a bandas de rock, intitulado **"The Pretty Rockless"**, em referência à banda **"The Pretty Reckless"**.
+Projeto acadêmico desenvolvido na **ETEC Jorge Street**, em março de 2025, destinado à criação de um site em homenagem a bandas de rock, intitulado **"The Pretty Rockless"**, em referência à banda **"The Pretty Reckless"**.
 
 ### Integração de HTML, JavaScript e CSS Simples
 
@@ -9,4 +9,4 @@ Projeto destinado à criação de um site em homenagem a bandas de rock, intitul
 
 - Repositório criado para fins educacionais.
 
-*Laura Alves Rodrigues dos Santos, 3HT*
+*Laura Alves Rodrigues dos Santos*

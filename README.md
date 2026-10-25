@@ -8,5 +8,8 @@ Projeto acadêmico desenvolvido na **ETEC Jorge Street**, em março de 2025, des
 **Objetivo:** Desenvolver conhecimentos no *Github*, fazer commits e utilizar *CodeSpaces*.
 
 - Repositório criado para fins educacionais.
+---
 
-*Laura Alves Rodrigues dos Santos*
+**Desenvolvido por [Laura Alves](https://github.com/LauraAlvesTech)**  
+*Técnica em Informática | Graduanda em Segurança da Informação*
+
